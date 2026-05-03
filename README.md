@@ -9,7 +9,6 @@ PM Accelerator Technical Assessment — Data Science
 
 The **Product Manager Accelerator Program** is designed to support PM professionals through every stage of their career. From students to first-time PMs to Directors and Executives, the program has helped over **2,000+ members from 50+ countries** transition, grow, and advance in their Product careers.
 
-🔗 [LinkedIn — Product Manager Accelerator](https://www.linkedin.com/company/product-manager-accelerator/)
 
 ---
 
